@@ -11,6 +11,7 @@ class No {
         this.direita = null;
     }
 }
+
 class ArvoreCodificacaoMorse {
     private No raiz;
 
